@@ -1,7 +1,10 @@
 # vitz-release
 
-Lade dir unsere neuste Version der Vitzapp hier runter: https://bit.ly/3jcGEov
+Lade dir unsere neuste Version der Vitzapp hier herunter: http://bit.ly/vitzlatest
 
-Hier findest du alle Versionen der Vitzapp: https://bit.ly/3aRXbLr
+Hier findest du alle Versionen der Vitzapp: http://bit.ly/vitzall
 
-Wir haften für keine Schäden an deinem Endgerät, die durch das herunterladen oder ausfürhren der App entstehen.
+Wir haften für keinerlei Schäden an deinem Endgerät, die durch das Herunterladen oder das Ausführen der App entstehen.
+Zur Sicherheit lade die App nur von dieser Offiziellen Seite herunter.
+
+Für Fragen findest du uns auf Instagram unter http://bit.ly/vitzinsta. 
