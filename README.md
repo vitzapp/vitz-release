@@ -1,3 +1,5 @@
 # vitz-release
 
-Download our App here : https://github.com/Vitz-App/vitz-release/releases/download/v1.1/verplant-3.7.8-debug.apk
+Lade dir unsere neuste Version der Vitzapp hier runter: https://bit.ly/3jcGEov
+
+Hier findest du alle Versionen der Vitzapp: https://bit.ly/3aRXbLr
