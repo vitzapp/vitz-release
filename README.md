@@ -1,6 +1,6 @@
 # Vitzapp- Release
 
-Lade dir unsere neuste Version der Vitzapp hier herunter: http://bit.ly/vitzlatest
+Lade dir unsere neuste Version der Vitzapp hier herunter: http://bit.ly/vitz038
 
 Hier findest du alle Versionen der Vitzapp: http://bit.ly/vitzall
 
