@@ -1,12 +1,10 @@
 # Vitzapp- Release
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Vitz-App/vitz-release?color=blue&include_prereleases&label=Letzter%20Release&logo=Github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/Vitz-App/vitz-release?color=blue&logo=Github&style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Vitz-App/vitz-release?color=blue&logo=github&style=for-the-badge)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Vitz-App/vitz-release?color=blue&include_prereleases&label=Letzter%20Release&logo=Github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/releases/latest) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/Vitz-App/vitz-release/total?color=blue&logo=github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/releases)
 
-Lade dir unsere neuste Version der Vitzapp hier herunter: http://bit.ly/vitz038
-
-Hier findest du alle Versionen der Vitzapp: http://bit.ly/vitzall
+[![GitHub issues](https://img.shields.io/github/issues-raw/Vitz-App/vitz-release?color=blue&logo=Github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/issues) 
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Vitz-App/vitz-release?color=blue&logo=github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/pulls) 
 
 # Funktionen
 ## Vertretungsplan
