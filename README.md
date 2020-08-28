@@ -4,7 +4,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/Vitz-App/vitz-release/total?color=blue&logo=github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/releases)
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/Vitz-App/vitz-release?color=blue&logo=Github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/issues) 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Vitz-App/vitz-release?color=blue&logo=github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/pulls) 
 
 # Funktionen
 ## Vertretungsplan
