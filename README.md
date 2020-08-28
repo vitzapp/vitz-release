@@ -1,11 +1,26 @@
 # Vitzapp- Release
 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Vitz-App/vitz-release?color=blue&include_prereleases&label=Letzter%20Release&logo=Github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/Vitz-App/vitz-release?color=blue&logo=Github&style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Vitz-App/vitz-release?color=blue&logo=github&style=for-the-badge)
+
 Lade dir unsere neuste Version der Vitzapp hier herunter: http://bit.ly/vitz038
 
 Hier findest du alle Versionen der Vitzapp: http://bit.ly/vitzall
 
+# Funktionen
+## Vertretungsplan
+- Offline Speicherung des Vertretungsplans
+- Schnelles Wechseln zwischen 3 Klassen
+- Automatische Änderung des Vertretungsplans auf den nächsten Tag nach 15 Uhr
 
-**HAFTUNGSAUSSCHLUSS**
+## Essenbestellung
+- Essenbestellung von Gourmetta
+
+
+
+
+# HAFTUNGSAUSSCHLUSS
 
 Wir haften für keinerlei Schäden an deinem Endgerät, die durch das Herunterladen oder das Ausführen der App entstehen.
 Zur Sicherheit lade die App nur von dieser Offiziellen Seite herunter.
