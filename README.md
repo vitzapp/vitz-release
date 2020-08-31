@@ -1,5 +1,7 @@
 # Vitzapp- Release
 
+Bitte lade dir noch nicht die neuste Version herunter, da diese momentan aufgrund einer Änderung von Seiten Indiwares immer ein Fehler aufkommt. Wir arbeiten mit allen Mitteln daran. Bitte habe Verständnis dafür und gedulde dich kurz... 
+
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Vitz-App/vitz-release?color=blue&include_prereleases&label=Letzter%20Release&logo=Github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/releases/latest) 
 [![GitHub All Releases](https://img.shields.io/github/downloads/Vitz-App/vitz-release/total?color=blue&logo=github&style=for-the-badge)](https://github.com/Vitz-App/vitz-release/releases)
 
